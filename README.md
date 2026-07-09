@@ -2,11 +2,15 @@
 
 A portfolio demonstration app highlighting the architectural differences between **Manual Constructor Injection** and **Service Locator Pattern (using Get_It)**.
 
+---
+
 ## 📸 Screenshots
 
 | Dashboard Overview | Constructor Injection | Service Locator Pattern |
-| :---: | :---: |
+| :---: | :---: | :---: |
 | <img src="assets/screenshots/1.png" width="200" height="320" /> | <img src="assets/screenshots/2.png" width="200" height="320" /> | <img src="assets/screenshots/3.png" width="200" height="320" /> |
+
+---
 
 ## Architectural Comparison
 
